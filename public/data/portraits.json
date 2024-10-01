@@ -99,5 +99,17 @@
     "name": "portrait9",
     "url": "portraits/Tony-Querrec©-9.jpg",
     "description": "Dolore magna"
+  },
+  {
+    "id": 17,
+    "name": "portrait17",
+    "url": "portraits/Tony-Querrec©-17.jpg",
+    "description": "Dolore magna"
+  },
+  {
+    "id": 18,
+    "name": "portrait18",
+    "url": "portraits/Tony-Querrec©-18.jpg",
+    "description": "Dolore magna"
   }
 ]

@@ -3,9 +3,9 @@ import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 
 export const metadata = {
-  title: "Tony Querrec - Photographe",
+  title: "Tony Querrec - Photographe à Paris",
   description:
-    "Site web de Tony Querrec, photographe professionnel spécialisé dans la photographie de portrait, d'art et de fashion.",
+    "Tony Querrec, Photographe à Paris, spécialisé en image d’Œuvres d’Art, Portraits et Événements. Je suis photographe professionnel, spécialisé dans la capture d’œuvres d’art, d’expositions et de portraits. Je propose également un service de photographie évènementielle (portrait et reportage corporate, conférence). Contactez-moi pour discuter de votre projet.",
 };
 
 export default function RootLayout({ children }) {
@@ -16,6 +16,8 @@ export default function RootLayout({ children }) {
           href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap"
           rel="stylesheet"
         />
+        <title>{metadata.title}</title>
+        <meta name="description" content={metadata.description} />
       </head>
       <body className={"py-[48px] px-[24px] sm:px-[48px]"}>
         <Header />
