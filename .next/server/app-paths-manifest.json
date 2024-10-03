@@ -1,8 +1,4 @@
 {
-  "/page": "app/page.js",
-  "/contact/page": "app/contact/page.js",
   "/fine-art/page": "app/fine-art/page.js",
-  "/commercial/page": "app/commercial/page.js",
-  "/reportage/page": "app/reportage/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js"
 }
