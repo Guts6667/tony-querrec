@@ -2,9 +2,9 @@ import Image from "next/image";
 
 export default function ContactSocia() {
   return (
-    <div className="flex gap-[48px] mt-[24px] justify-center w-full  ">
+    <div className="hidden lg:flex gap-[48px] mt-[24px] justify-center w-full  ">
       <a
-        href=""
+        href="https://www.linkedin.com/in/tony-querrec/"
         target="_blank"
         className=" flex items-center justify-center border-[1.5px] border-black rounded-full w-[75px] h-[75px] transition-all duration-300 hover:scale-110 ease-in-out active:scale-90"
       >
@@ -16,7 +16,7 @@ export default function ContactSocia() {
         />
       </a>
       <a
-        href=""
+        href="https://www.instagram.com/tonyquerrec/"
         target="_blank"
         className=" flex items-center justify-center border-[1.5px] border-black rounded-full w-[75px] h-[75px] transition-all duration-300 hover:scale-110 ease-in-out active:scale-90 "
       >
@@ -28,7 +28,7 @@ export default function ContactSocia() {
         />
       </a>
       <a
-        href=""
+        href="https://www.behance.net/tonyquerrec"
         target="_blank"
         className=" flex items-center justify-center border-[1.5px] border-black rounded-full w-[75px] h-[75px] transition-all duration-300 hover:scale-110 ease-in-out active:scale-90 "
       >
