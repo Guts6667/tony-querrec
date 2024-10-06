@@ -10,7 +10,7 @@ export default function Footer() {
             <a href="https://www.linkedin.com/in/tony-querrec/" target="_blank" className="flex items-center justify-center border-[1.5px] border-black rounded-full w-[45px] h-[45px] transition-all duration-300 hover:scale-110 ease-in-out active:scale-90">
                 <Image src="/images/icons/icon-linkedin.svg" width={20} height={20} alt="icon Linkedin" />
             </a>
-            <a href="https://www.instagram.com/tonyquerrec/" target="_blank" className="flex items-center justify-center border-[1.5px] border-black rounded-full w-[45px] h-[45px] transition-all duration-300 hover:scale-110 ease-in-out active:scale-90">
+            <a href="https://www.instagram.com/tonyquerrecstudio/" target="_blank" className="flex items-center justify-center border-[1.5px] border-black rounded-full w-[45px] h-[45px] transition-all duration-300 hover:scale-110 ease-in-out active:scale-90">
                 <Image src="/images/icons/icon-instagram.svg" width={20} height={20} alt="icon Instagram" />
             </a>
             <a href="https://www.behance.net/tonyquerrec" target="_blank" className="flex items-center justify-center border-[1.5px] border-black rounded-full w-[45px] h-[45] transition-all duration-300 hover:scale-110 ease-in-out active:scale-90">

@@ -16,7 +16,7 @@ export default function ContactSocia() {
         />
       </a>
       <a
-        href="https://www.instagram.com/tonyquerrec/"
+        href="https://www.instagram.com/tonyquerrecstudio/"
         target="_blank"
         className=" flex items-center justify-center border-[1.5px] border-black rounded-full w-[75px] h-[75px] transition-all duration-300 hover:scale-110 ease-in-out active:scale-90 "
       >
