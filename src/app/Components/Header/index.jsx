@@ -17,7 +17,9 @@ export default function Header() {
     { href: "/fine-art", label: "Fine Art" },
     { href: "/commercial", label: "Commercial" },
     { href: "/reportage", label: "Reportage" },
-    { href: "/contact", label: "Contact" },
+    { href: "/portfolio", label: "Portfolio"},
+    { href: "/contact", label: "Contact" }
+    
   ];
 
   return (
